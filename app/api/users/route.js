@@ -1,3 +1,6 @@
+
+//http://localhost:3000/api/users
+
 export async function GET(request){
     //Handle GET request for /api/users
     //Retrives user from database or any data source
